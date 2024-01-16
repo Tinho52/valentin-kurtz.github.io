@@ -1,6 +1,6 @@
-baseURL: "https://hugo-profile.netlify.app"
-languageCode: "en-us"
-title: "Val petite bite"
+baseURL: "https://tinho52.github.io/valentin-kurtz.github.io/"
+languageCode: "fr-fr"
+title: "saussice est un test"
 theme: hugo-profile
 
 outputs:
