@@ -1,4 +1,4 @@
-baseURL: "https://hugo-profile.netlify.app"
+baseURL: "https://valentin-kurtz.github.io /"
 languageCode: "en-us"
 title: "Hugo Profile"
 theme: hugo-profile
@@ -42,7 +42,7 @@ Menus:
     #   weight: 1
     # - identifier: dropdown2
     #   title: example dropdown 2
-    #   name: example 2
+    #   name: exampvalentin-kurtz.github.io/le 2
     #   url: /#
     #   parent: dropdown
     #   weight: 2
