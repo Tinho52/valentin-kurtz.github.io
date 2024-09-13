@@ -1,5 +1,5 @@
---
-title: "AP 1000 : FSDHUFHB "
+---
+title: "AP 01: Création d'un formulaire et traitement avec du PHP"
 date: 2023-09-19T23:29:21+05:30
 draft: false
 author: "Valentin"
@@ -26,3 +26,7 @@ La mission était de crée un formulaire et de le traiter à l'aide du PHP.
 	
 ## II) Résultat
  
+1. Résultat du formulaire HTML 
+![](/images/AP/formulaire.png)
+2. Résultat du traitement avec PHP
+![](/images/AP/resultat_mod.png)
