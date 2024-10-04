@@ -159,6 +159,11 @@ params:
     enable: true
     title: "Experiences Professionnelles"
     items:
+      -job: "Conseiller numérique "
+        company: "Espace Vall'Âges"
+        date: "3 Juin 2024 - 5 Juillet 2024"
+        content: Stage réalisé dans cette structure en tant que conseiller numérique.
+        
       - job: "Professeur des écoles"
         company: "Groupe scolaire de Donjeux"
         companyUrl: 
@@ -171,6 +176,8 @@ params:
         company: "Pomme Elec"
         date: "8 Janvier 2018 - 12 Janvier 2018"
         content: Stage réalisé dans cette entreprise en tant qu'électricien.
+        
+    
         
       
 
