@@ -1,9 +1,40 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Sample on saussice est un test</title><link>https://tinho52.github.io/valentin-kurtz.github.io/tags/sample/</link><description>Recent content in Sample on saussice est un test</description><generator>Hugo -- gohugo.io</generator><language>fr-fr</language><lastBuildDate>Sat, 03 Apr 2021 23:29:21 +0530</lastBuildDate><atom:link href="https://tinho52.github.io/valentin-kurtz.github.io/tags/sample/index.xml" rel="self" type="application/rss+xml"/><item><title>Markdown Syntax</title><link>https://tinho52.github.io/valentin-kurtz.github.io/blogs/markdown-syntax/</link><pubDate>Sat, 03 Apr 2021 23:29:21 +0530</pubDate><guid>https://tinho52.github.io/valentin-kurtz.github.io/blogs/markdown-syntax/</guid><description>Paragraph Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga.</description></item><item><title>Emoji Support</title><link>https://tinho52.github.io/valentin-kurtz.github.io/blogs/emoji-support/</link><pubDate>Sat, 03 Apr 2021 22:53:58 +0530</pubDate><guid>https://tinho52.github.io/valentin-kurtz.github.io/blogs/emoji-support/</guid><description>Emoji can be enabled in a Hugo project in a number of ways. :zap:
-Emoji Support The emojify function can be called directly in templates or Inline Shortcodes.
-To enable emoji globally, set enableEmoji to true in your site’s configuration and then you can type emoji shorthand codes directly in content files; e.g.
-The Emoji cheat sheet is a useful reference for emoji shorthand codes.
-N.B. The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform.</description></item><item><title>Placeholder Text</title><link>https://tinho52.github.io/valentin-kurtz.github.io/blogs/placeholder-text/</link><pubDate>Sat, 03 Apr 2021 22:41:10 +0530</pubDate><guid>https://tinho52.github.io/valentin-kurtz.github.io/blogs/placeholder-text/</guid><description>Lorem est tota propiore conpellat pectoribus de pectora summo.
-Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.
-Exierant elisi ambit vivere dedere Duce pollice Eris modo Spargitque ferrea quos palude Rursus nulli murmur; hastile inridet ut ab gravi sententia!</description></item><item><title>Rich Content</title><link>https://tinho52.github.io/valentin-kurtz.github.io/blogs/rich-content/</link><pubDate>Sat, 03 Apr 2021 19:53:33 +0530</pubDate><guid>https://tinho52.github.io/valentin-kurtz.github.io/blogs/rich-content/</guid><description>Hugo ships with several Built-in Shortcodes for rich content, along with a Privacy Config and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.
-Gist Simple Shortcode {{&amp;lt; gist spf13 7896402 &amp;#34;img.html&amp;#34; &amp;gt;}} Twitter Simple Shortcode {{&amp;lt; tweet GoHugoIO 1315233626070503424 &amp;gt;}} Profile is a customizable single-page portfolio theme for Hugo featuring a contact form and blog. Made by @gurusabarishh.https://t.co/KwYcwfdy16
-&amp;mdash; GoHugo.io (@GoHugoIO) October 11, 2020 Vimeo Simple Shortcode {{&amp;lt; vimeo 146022717 &amp;gt;}} Youtube Simple Shortcode {{&amp;lt; youtube w7Ft2ymGmfc &amp;gt;}} Theme Custom Shortcodes These shortcodes are not Hugo built-ins, but are provided by the theme.</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sample on Hugo Profile</title>
+    <link>http://localhost:1313/tags/sample/</link>
+    <description>Recent content in Sample on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 23 Jan 2024 19:53:33 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/sample/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>AP 01: Création d&#39;un formulaire et traitement avec du PHP</title>
+      <link>http://localhost:1313/ap/ap01/</link>
+      <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/ap/ap01/</guid>
+      <description>&lt;p&gt;La mission était de crée un formulaire et de le traiter à l&amp;rsquo;aide du PHP.&#xA;AP: Création d&amp;rsquo;un formulaire et traitement avec du PHP&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-objectifs-de-lactivité&#34;&gt;I) Objectifs de l&amp;rsquo;activité&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Réaliser un formualire en HTML et CSS en respectant une charte graphique&lt;/li&gt;&#xA;&lt;li&gt;Respecter les normes et standards du W3C en utilisant les outils de validation du code puis en corrigeant les erreurs.&lt;/li&gt;&#xA;&lt;li&gt;Découverte du langage PHP et de son éxécution&lt;/li&gt;&#xA;&lt;li&gt;Traiter un formulaire HTML en PHP&lt;/li&gt;&#xA;&lt;li&gt;Débogage d&amp;rsquo;erreurs en PHP&lt;/li&gt;&#xA;&lt;li&gt;Structures conditionnelles en PHP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii-résultat&#34;&gt;II) Résultat&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Résultat du formulaire HTML&#xA;&lt;img src=&#34;http://localhost:1313/images/AP/formulaire.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;Résultat du traitement avec PHP&#xA;&lt;img src=&#34;http://localhost:1313/images/AP/resultat_mod.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+    </item>
+    <item>
+      <title>AP 03: Découvrir et utiliser Javascript </title>
+      <link>http://localhost:1313/ap/ap03/</link>
+      <pubDate>Tue, 03 Oct 2023 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/ap/ap03/</guid>
+      <description>&lt;p&gt;La mission était de coder en JavaScript un jeu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i---présentation-du-contexte&#34;&gt;I - Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;Vous travaillez pour une entreprise qui souhaite se lancer dans les petits jeux ludiques en ligne. II. Mission 1 : Les besoins&lt;/p&gt;&#xA;&lt;p&gt;On vous demande de coder en JavaScript un jeu dont le principe est simple :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;il faut cliquer sur une image.&lt;/li&gt;&#xA;&lt;li&gt;à chaque clic le score augmente de 1.&lt;/li&gt;&#xA;&lt;li&gt;pour arriver au niveau 1, il faut 15 clics, puis pour chaque niveau suivant on multiplie par 2 le nombre de clics nécessaires au niveau précédent (niveau 1 : 15 clics, niveau 2 : 30 clics, niveau 3 : 60 clics, niveau 4 : 120 clics, …).&lt;/li&gt;&#xA;&lt;li&gt;a chaque fois que l’on arrive au niveau supérieur, le nombre de clics actuel devient le nombre de clics auquel on retire le nombre de clics utilisés pour passer au niveau supérieur.&lt;/li&gt;&#xA;&lt;li&gt;On veut que les joueurs puissent se connecter avec leur nom / mot de passe grâce à un formulaire de connexion.&lt;/li&gt;&#xA;&lt;li&gt;Lorsqu’un joueur se connecte, le jeu s’initialise avec le nombre de clics et le niveau qui correspondent à son compte dans la base de données.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii---résultat-à-obtenir&#34;&gt;II - Résultat à obtenir&lt;/h2&gt;&#xA;&lt;center&gt;&lt;img src=&#34;http://localhost:1313/images/AP/clics.png&#34;&gt;&lt;/center&gt;</description>
+    </item>
+    <item>
+      <title>AP 04: Dessiner un schéma réseau et mettre en service un site Web </title>
+      <link>http://localhost:1313/ap/ap04/</link>
+      <pubDate>Wed, 18 Oct 2023 22:53:58 +0530</pubDate>
+      <guid>http://localhost:1313/ap/ap04/</guid>
+      <description>&lt;p&gt;La mission était dessiner un schéma réseau et mettre en service un site Web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-contexte&#34;&gt;I. Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AP 05: Création d&#39;un site Porfolio avec Hugo</title>
+      <link>http://localhost:1313/ap/ap05/</link>
+      <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/ap05/</guid>
+      <description>&lt;p&gt;La mission était de crée un portfolio avec le site Hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-projet&#34;&gt;I. Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
