@@ -159,7 +159,7 @@ params:
     enable: true
     title: "Experiences Professionnelles"
     items:
-      -job: "Conseiller numérique "
+      - job: "Conseiller numérique"
         company: "Espace Vall'Âges"
         date: "3 Juin 2024 - 5 Juillet 2024"
         content: Stage réalisé dans cette structure en tant que conseiller numérique.
