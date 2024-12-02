@@ -147,10 +147,11 @@ params:
       enable: true
       title: "Je possède plusieurs compétences informatiques"
       items:
+      	- "Mise en place de serveurs"
+      	- "Mise en place de Proxmox"
         - "Langages de programmation:C#, HTML, CSS, PHP, Python"
         - "Bases de données:MySQL"
         - "Analyse:Schéma relationnel, schéma Entité-Association"
-        - "Outils de Développement:Visual Studio, NotePad++"
         - "Bureautique:Word, Excel, PowerPoint, Publisher"
         - "Autres:CISCO"
 
