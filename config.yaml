@@ -142,13 +142,12 @@ params:
     content: |-
       Je suis étudiant à Chaumont en Haute Marne en BTS Sio. J'ai choisi l'option SISR ce qui correspond à Solutions d'Infrastructures, Systèmes et Réseaux.
 
-      
     skills:
       enable: true
       title: "Je possède plusieurs compétences informatiques"
       items:
-      	- "Mise en place de serveurs"
-      	- "Mise en place de Proxmox"
+        - "Mise en place de serveurs"
+        - "Mise en place de Proxmox"
         - "Langages de programmation:C#, HTML, CSS, PHP, Python"
         - "Bases de données:MySQL"
         - "Analyse:Schéma relationnel, schéma Entité-Association"
@@ -168,10 +167,8 @@ params:
       - job: "Professeur des écoles"
         company: "Groupe scolaire de Donjeux"
         companyUrl: 
-        date: "17 Juin 2019 - 21 Juin 2019 "
-      
-         
-        content: "Stage réalisé dans ce groupe scolaire en tant que professeur des écoles"
+        date: "17 Juin 2019 - 21 Juin 2019 "     
+        content: Stage réalisé dans ce groupe scolaire en tant que professeur des écoles
 
       - job: "Electricien "
         company: "Pomme Elec"
