@@ -148,6 +148,8 @@ params:
       items:
         - "Mise en place de serveurs"
         - "Mise en place de Proxmox"
+        - "Mise en place d'un Zabbix"
+        - "Mise en place d'un pare-feu Stormshield"
         - "Langages de programmation:C#, HTML, CSS, PHP, Python"
         - "Bases de données:MySQL"
         - "Analyse:Schéma relationnel, schéma Entité-Association"
@@ -160,7 +162,7 @@ params:
     title: "Experiences Professionnelles"
     items:
       - job: "Conseiller numérique"
-        company: "Espace Vall'Âges"
+        company: "Espace Vall Ages"
         date: "3 Juin 2024 - 5 Juillet 2024"
         content: Stage réalisé dans cette structure en tant que conseiller numérique.
         
