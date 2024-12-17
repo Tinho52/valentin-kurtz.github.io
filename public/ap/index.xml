@@ -44,11 +44,11 @@
       <description>&lt;p&gt;La mission était de crée un portfolio avec le site Hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-projet&#34;&gt;I. Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title></title>
+      <title>AP 06: Mise en place d&#39;un service de déploiement</title>
       <link>http://localhost:1313/ap/ap06/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap06/</guid>
-      <description></description>
+      <description>&lt;p&gt;La mission était de mettre en place un service de déploiemetnt.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-projet&#34;&gt;I. Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;_&#xA;Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

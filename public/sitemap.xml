@@ -17,6 +17,9 @@
     <loc>http://localhost:1313/ap/ap05/</loc>
     <lastmod>2024-01-23T19:53:33+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/ap/ap06/</loc>
+    <lastmod>2024-01-23T19:53:33+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ap/</loc>
     <lastmod>2024-01-23T19:53:33+05:30</lastmod>
   </url><url>
@@ -43,8 +46,6 @@
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
     <lastmod>2022-06-25T18:35:46+05:30</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/ap/ap06/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url>
