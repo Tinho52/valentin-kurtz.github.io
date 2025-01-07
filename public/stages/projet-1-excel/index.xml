@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projet 1 de stage : Création d&#39;un exercice pour débutant en informatique pour l&#39;utilisation d&#39;Excel on Hugo Profile</title>
+    <link>http://localhost:1313/stages/projet-1-excel/</link>
+    <description>Recent content in Projet 1 de stage : Création d&#39;un exercice pour débutant en informatique pour l&#39;utilisation d&#39;Excel on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate></lastBuildDate>
+    <atom:link href="http://localhost:1313/stages/projet-1-excel/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

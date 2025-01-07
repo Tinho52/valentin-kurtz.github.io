@@ -25,10 +25,15 @@ markup:
 Menus:
   main:
     - identifier: AP
-      name: AP et stages
-      title: AP et stages
+      name: AP et Projets
+      title: AP et Projets
       url: /AP
       weight: 1
+    - identifier: Stages
+      name: Stages
+      title: Stages
+      url: /stages
+      weight: 2
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -151,17 +156,22 @@ params:
         - "Mise en place d'un Zabbix"
         - "Mise en place d'un pare-feu Stormshield"
         - "Mise en place de fonctionnalités DNS, DHCP"
-        - "Langages de programmation:C#, HTML, CSS, PHP, Python"
         - "Bases de données:MySQL"
         - "Analyse:Schéma relationnel, schéma Entité-Association"
-        - "Bureautique:Word, Excel, PowerPoint, Publisher"
-        - "Autres:CISCO"
+        - "Bureautique:Word, Excel, PowerPoint"
+        
 
   # Experience
   experience:
     enable: true
     title: "Experiences Professionnelles"
     items:
+    
+      - job: "Conseiller numérique"
+        company: "Espace Vall Ages"
+        date: "6 Janvier 2025 - 7 Février 2025"
+        content: Stage réalisé dans cette structure en tant que conseiller numérique.
+        
       - job: "Conseiller numérique"
         company: "Espace Vall Ages"
         date: "3 Juin 2024 - 5 Juillet 2024"
@@ -215,6 +225,8 @@ params:
           url: 
         date: "2014-2018"
         GPA: 
+        content: |-
+          Diplôme obtenu avec mention bien
         featuredLink:
           enable: 
           url: 
@@ -239,6 +251,13 @@ params:
 
         badges:
           - "Hugo"
+          
+      - title: Projet Stormshield
+        content: Nous devons créer tout un réseau avec un contexte bien précis puis y mettre un pare-feu Stormshield;
+        image: /images/projects/storm.jpg
+
+        badges:
+          - "Storm"
   
 
       

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Stages on Hugo Profile</title>
+    <link>http://localhost:1313/stages/</link>
+    <description>Recent content in Stages on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/stages/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Projet 1 de stage : Création d&#39;un exercice pour débutant en informatique pour l&#39;utilisation d&#39;Excel</title>
+      <link>http://localhost:1313/stages/projet-1-excel/</link>
+      <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/stages/projet-1-excel/</guid>
+      <description>&lt;p&gt;Pour un groupe de débutant en informatique souhaitant apprendre Excel afin de l&amp;rsquo;utiliser pour faire leurs comptes, j&amp;rsquo;ai du réaliser un exercice simulant une fiche d&amp;rsquo;une personne fictive ayant plusieurs revenus et dépenses. A l&amp;rsquo;aide de cette feuille, les usagers devaient réaliser un tableau sous Excel afin d&amp;rsquo;y ajouter les dépenses et revenus de chaque mois afin de savoir combien d&amp;rsquo;argent il reste à cette personne mensuellement et annuellement.&#xA;J&amp;rsquo;ai également dû réaliser une &amp;ldquo;procédure&amp;rdquo; pour les usagers afin qu&amp;rsquo;il la suive afin de réaliser ce tableau.&#xA;Le but de cet exercice était d&amp;rsquo;accompagner les usagers quant à l&amp;rsquo;utilisation d&amp;rsquo;Excel.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projet 2 de stage : Création d&#39;un exercice pour débutant en informatique pour l&#39;utilisation de Canva</title>
+      <link>http://localhost:1313/stages/projet-2-canva/</link>
+      <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/stages/projet-2-canva/</guid>
+      <description>&lt;p&gt;Pour un groupe de débutant en informatique souhaitant apprendre Canva afin de l&amp;rsquo;utiliser personnellement, j&amp;rsquo;ai du réaliser un exercice avec comme consigne de réaliser une affiche . A l&amp;rsquo;aide de cette feuille, les usagers devaient réaliser une affiche sous Canva.&#xA;J&amp;rsquo;ai également dû réaliser une &amp;ldquo;procédure&amp;rdquo; pour les usagers afin qu&amp;rsquo;il la suive afin de réaliser cette affiche.&#xA;Le but de cet exercice était d&amp;rsquo;accompagner les usagers quant à l&amp;rsquo;utilisation de Canva.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projet 3 de stage :Création d&#39;un formulaire pour recueillir des avis suite à un évènement organisé par l&#39;organisation</title>
+      <link>http://localhost:1313/stages/projet-3-formulaire-/</link>
+      <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/stages/projet-3-formulaire-/</guid>
+      <description>&lt;p&gt;A la suite d&amp;rsquo;un évènement réalisé par l&amp;rsquo;organisation, je devais réaliser un formulaire afin de recueillir l&amp;rsquo;avis des personnes.&#xA;Toutes les données récoltées sont soumises au règlement du RGPD et les personnes ont été notifiés de l&amp;rsquo;importance de celle-ci pour les évènements futurs. J&amp;rsquo;ai également prévenu les personnes de leurs différents droits concernant leurs données.&#xA;A la suite de l&amp;rsquo;ensemble des avis que j&amp;rsquo;ai pu recueillir, j&amp;rsquo;ai pu établir des statistiques concernant cet évènements.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projet 4 de stage :Création d&#39;une affiche concernant une activité futur organisé par l&#39;organisation</title>
+      <link>http://localhost:1313/stages/projet-4-affiches/</link>
+      <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/stages/projet-4-affiches/</guid>
+      <description>&lt;p&gt;Au sein du centre social et culture où j&amp;rsquo;ai réalisé mon stage, une activité sur l&amp;rsquo;estime de soi et la confiance en soi allait sé dérouler. Afin de promouvoir cette activité, je devais réaliser une affiche présentant cette activité afin de la publier sur les réseaux sociaux.&#xA;Je devais répondre à certains critères comme les couleurs utilisés.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projet 5 de stage :Création d&#39;une activité concernant les raccourcis clavier</title>
+      <link>http://localhost:1313/stages/projet-5-raccourcis/</link>
+      <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/stages/projet-5-raccourcis/</guid>
+      <description>&lt;p&gt;Pour un groupe de débutant en informatique souhaitant apprendre les différents raccourcis claviers, j&amp;rsquo;ai du réaliser une fiche concernant les différents raccourcis clavier.&#xA;J&amp;rsquo;ai également conçu un exercice où les usagers devaient utuliser de ces raccourcis vu précédemment.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

@@ -5,6 +5,21 @@
     <loc>http://localhost:1313/ap/ap01/</loc>
     <lastmod>2023-09-19T23:29:21+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/stages/projet-1-excel/</loc>
+    <lastmod>2023-09-19T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stages/projet-2-canva/</loc>
+    <lastmod>2023-09-19T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stages/projet-3-formulaire-/</loc>
+    <lastmod>2023-09-19T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stages/projet-4-affiches/</loc>
+    <lastmod>2023-09-19T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stages/projet-5-raccourcis/</loc>
+    <lastmod>2023-09-19T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/ap/ap02/</loc>
     <lastmod>2023-09-28T19:53:33+05:30</lastmod>
   </url><url>
@@ -42,6 +57,9 @@
     <lastmod>2023-10-18T22:53:58+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/markdown-syntax/</loc>
+    <lastmod>2023-09-19T23:29:21+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/stages/</loc>
     <lastmod>2023-09-19T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/gallery/</loc>
