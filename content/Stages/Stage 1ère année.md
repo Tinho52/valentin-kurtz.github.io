@@ -1,6 +1,6 @@
 ---
 title: "Stage SIO1"
-date: 2023-09-19T23:29:21+05:30
+date: 2024-06-03T23:29:21+05:30
 draft: false
 author: "Valentin"
 tags:
@@ -12,7 +12,7 @@ description: ""
 toc:
 weight: 1
 ---
-J'ai réalisé mon stage de première année de BTS SIO au sein de l'espace VAll'Âges, un centre social et culturel situé à Joinville. J'étais avec le conseiller numérique. Mon stage s'est déroulé du 3 juin 2024 au 5 juillet 2024. Au sein de ce stage, j'ai réalisé plusieurs projets.
+J'ai réalisé mon stage de première année de BTS SIO au sein de l'espace Vall'Âges, un centre social et culturel situé à Joinville. J'étais avec le conseiller numérique. Mon stage s'est déroulé du 3 juin 2024 au 5 juillet 2024. Au sein de ce stage, j'ai réalisé plusieurs projets.
 
 ## Projet n°1: Création d'un exercice pour débutant en informatique pour l'utilisation d'Excel
 
