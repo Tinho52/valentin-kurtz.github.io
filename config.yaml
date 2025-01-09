@@ -34,6 +34,11 @@ Menus:
       title: Stages
       url: /stages
       weight: 2
+    - identifier: Contact
+      name: Contact
+      title: Contact
+      url: /contact
+      weight: 3
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -153,7 +158,8 @@ params:
       items:
         - "Mise en place de serveur Windows AD"
         - "Mise en place de Proxmox"
-        - "Mise en place d'un Zabbix"
+        - "Déploiement de machines par le réseau"
+        - "Supervision réseau avec Zabbix"
         - "Mise en place d'un pare-feu Stormshield"
         - "Mise en place de fonctionnalités DNS, DHCP"
         - "Bases de données:MySQL"
@@ -234,7 +240,7 @@ params:
   # Achievements
   achievements:
     enable: true
-    # title: "Custom Name"
+    title: "Certifications"
     items:
       - title: Certification Pix
         image: "/images/Pix.png"
@@ -245,15 +251,9 @@ params:
     enable: true
     title: "Projets"
     items:
-      - title: Hugo Profile
-        content: J'ai crée un portfolio à propos de moi à l'aide de Hugo Profile.
-        image: /images/projects/profile.png
-
-        badges:
-          - "Hugo"
-          
-      - title: Projet Stormshield
-        content: Nous devons créer tout un réseau avec un contexte bien précis puis y mettre un pare-feu Stormshield;
+      
+      - title: Projet Stormshield B3
+        content: Plus d'informations dans AP et Projets
         image: /images/projects/storm.jpg
 
         badges:

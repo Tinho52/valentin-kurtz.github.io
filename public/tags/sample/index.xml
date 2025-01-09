@@ -16,6 +16,13 @@
       <description>&lt;p&gt;La mission était de crée un formulaire et de le traiter à l&amp;rsquo;aide du PHP.&#xA;AP: Création d&amp;rsquo;un formulaire et traitement avec du PHP&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-objectifs-de-lactivité&#34;&gt;I) Objectifs de l&amp;rsquo;activité&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Réaliser un formualire en HTML et CSS en respectant une charte graphique&lt;/li&gt;&#xA;&lt;li&gt;Respecter les normes et standards du W3C en utilisant les outils de validation du code puis en corrigeant les erreurs.&lt;/li&gt;&#xA;&lt;li&gt;Découverte du langage PHP et de son éxécution&lt;/li&gt;&#xA;&lt;li&gt;Traiter un formulaire HTML en PHP&lt;/li&gt;&#xA;&lt;li&gt;Débogage d&amp;rsquo;erreurs en PHP&lt;/li&gt;&#xA;&lt;li&gt;Structures conditionnelles en PHP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii-résultat&#34;&gt;II) Résultat&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Résultat du formulaire HTML&#xA;&lt;img src=&#34;http://localhost:1313/images/AP/formulaire.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;Résultat du traitement avec PHP&#xA;&lt;img src=&#34;http://localhost:1313/images/AP/resultat_mod.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
     </item>
     <item>
+      <title>Comment me contacter?</title>
+      <link>http://localhost:1313/contact/contact/</link>
+      <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/contact/contact/</guid>
+      <description>&lt;p&gt;Vous pouvez me contacter:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Au 06 65 05 43 22&lt;/li&gt;&#xA;&lt;li&gt;A l&amp;rsquo;adresse &lt;a href=&#34;mailto:Valentin5207@outlook.com&#34;&gt;Valentin5207@outlook.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+    <item>
       <title>Stage SIO1</title>
       <link>http://localhost:1313/stages/stage-1%C3%A8re-ann%C3%A9e/</link>
       <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>

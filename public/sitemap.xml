@@ -5,6 +5,9 @@
     <loc>http://localhost:1313/ap/ap01/</loc>
     <lastmod>2023-09-19T23:29:21+05:30</lastmod>
   </url><url>
+    <loc>http://localhost:1313/contact/contact/</loc>
+    <lastmod>2023-09-19T23:29:21+05:30</lastmod>
+  </url><url>
     <loc>http://localhost:1313/stages/stage-1%C3%A8re-ann%C3%A9e/</loc>
     <lastmod>2023-09-19T23:29:21+05:30</lastmod>
   </url><url>
@@ -55,6 +58,9 @@
   </url><url>
     <loc>http://localhost:1313/tags/emoji-support/</loc>
     <lastmod>2023-10-18T22:53:58+05:30</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+    <lastmod>2023-09-19T23:29:21+05:30</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/markdown-syn/</loc>
     <lastmod>2023-09-19T23:29:21+05:30</lastmod>

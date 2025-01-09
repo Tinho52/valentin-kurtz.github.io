@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Contacts on Hugo Profile</title>
+    <link>http://localhost:1313/contact/</link>
+    <description>Recent content in Contacts on Hugo Profile</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 Sep 2023 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/contact/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Comment me contacter?</title>
+      <link>http://localhost:1313/contact/contact/</link>
+      <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/contact/contact/</guid>
+      <description>&lt;p&gt;Vous pouvez me contacter:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Au 06 65 05 43 22&lt;/li&gt;&#xA;&lt;li&gt;A l&amp;rsquo;adresse &lt;a href=&#34;mailto:Valentin5207@outlook.com&#34;&gt;Valentin5207@outlook.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
