@@ -9,18 +9,39 @@
     <lastBuildDate>Tue, 23 Jan 2024 19:53:33 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/rich-content/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>AP 05: Création d&#39;un site Porfolio avec Hugo</title>
+      <title>AP 05 SIO1 : Création d&#39;un site Porfolio avec Hugo</title>
       <link>http://localhost:1313/ap/ap05/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap05/</guid>
       <description>&lt;p&gt;La mission était de crée un portfolio avec le site Hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-projet&#34;&gt;I. Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>AP 06: Mise en place d&#39;un service de déploiement</title>
+      <title>AP 06 SIO1 : Déploiement de machines par le réseau avec FOG Project</title>
       <link>http://localhost:1313/ap/ap06/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap06/</guid>
-      <description>&lt;p&gt;La mission était de mettre en place un service de déploiemetnt.&lt;/p&gt;</description>
+      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii-mission-1--besoins&#34;&gt;II. Mission 1 : Besoins&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence  et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d&amp;rsquo;utiliser le logiciel FOG Project que vous installerez sur une machine virtuelle Lubuntu.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AP 07 SIO1 : WDS</title>
+      <link>http://localhost:1313/ap/ap-07/</link>
+      <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/ap-07/</guid>
+      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii-les-besoins&#34;&gt;II. Les besoins&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence  et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d&amp;rsquo;utiliser le service de déploiement Windows qui est intégré à Windows Server 2022.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>AP 01 SIO2: Supervision réseau avec Zabbix</title>
+      <link>http://localhost:1313/ap/ap-08-/</link>
+      <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/ap-08-/</guid>
+      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii-les-besoins&#34;&gt;II. Les besoins&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence  et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d&amp;rsquo;utiliser le service de déploiement Windows qui est intégré à Windows Server 2022.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Bloc 3 Projet Stormshield</title>
+      <link>http://localhost:1313/ap/bloc-3/</link>
+      <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
+      <guid>http://localhost:1313/ap/bloc-3/</guid>
+      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.&lt;/p&gt;&#xA;&lt;p&gt;Le concept novateur de CUB repose sur une démarche collaborative de type « BtoB », en effet CUB propose aux entreprises qui disposent d’espaces inoccupés de les louer à l’heure ou à la journée.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
