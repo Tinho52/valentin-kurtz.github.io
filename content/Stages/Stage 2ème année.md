@@ -43,7 +43,9 @@ Par la suite, étant donné qu'ils voulaient l'installer pour pouvoir l'utiliser
 J'ai pu co-animer cet atelier avec mon maitre de stage. 
 
 
-## Projet n°4: 
+## Projet n°4: Réalisation d'une affiche
+
+Sous Canva et à l'aide d'une feuille présentant le thème principal et les informations nécessaires, je devais réaliser une affiche pour une activité future organisé par l'association. 
 
 
 

@@ -4,7 +4,7 @@
     <title>Sample on Hugo Profile</title>
     <link>http://localhost:1313/tags/sample/</link>
     <description>Recent content in Sample on Hugo Profile</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 06 Jan 2025 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/sample/index.xml" rel="self" type="application/rss+xml" />
@@ -13,77 +13,77 @@
       <link>http://localhost:1313/stages/stage-2%C3%A8me-ann%C3%A9e/</link>
       <pubDate>Mon, 06 Jan 2025 23:29:21 +0530</pubDate>
       <guid>http://localhost:1313/stages/stage-2%C3%A8me-ann%C3%A9e/</guid>
-      <description>&lt;p&gt;Pour mon stage de seconde année, je l&amp;rsquo;ai réalisé dans la même structure et auprès du même conseiller numérique. Celui-ci a été réalisé du 6 janvier 2025 au 7 février 2025. Etant plus à l&amp;rsquo;aise et avec plus d&amp;rsquo;expérience pour ce métier, j&amp;rsquo;ai pu animer certains ateliers pours plusieurs groupes, débutant ou non en informaique.&lt;/p&gt;&#xA;&lt;h2 id=&#34;projet-n1-création-et-animation-dune-activité-concernant-les-arnaques-par-mails-et-par-sms&#34;&gt;Projet n°1: Création et animation d&amp;rsquo;une activité concernant les arnaques par mails et par SMS&lt;/h2&gt;&#xA;&lt;p&gt;Pour un groupe qui désirait être sensibiliser aux arnaques par mail et par SMS, je devais réaliser un “cours” sur ceux ci. J’ai donc expliqué ce que c’etait ces arnarques puis comment les reconnaitre tout en leur montrant un exemple. J’ai ensuite montrer que faire quand nous sommes victimes de ce genre d’arnarques.&lt;/p&gt;</description>
+      <description>Pour mon stage de seconde année, je l&amp;rsquo;ai réalisé dans la même structure et auprès du même conseiller numérique. Celui-ci a été réalisé du 6 janvier 2025 au 7 février 2025. Etant plus à l&amp;rsquo;aise et avec plus d&amp;rsquo;expérience pour ce métier, j&amp;rsquo;ai pu animer certains ateliers pours plusieurs groupes, débutant ou non en informaique.&#xA;Projet n°1: Création et animation d&amp;rsquo;une activité concernant les arnaques par mails et par SMS Pour un groupe qui désirait être sensibiliser aux arnaques par mail et par SMS, je devais réaliser un “cours” sur ceux ci.</description>
     </item>
     <item>
       <title>Stage SIO1</title>
       <link>http://localhost:1313/stages/stage-1%C3%A8re-ann%C3%A9e/</link>
       <pubDate>Mon, 03 Jun 2024 23:29:21 +0530</pubDate>
       <guid>http://localhost:1313/stages/stage-1%C3%A8re-ann%C3%A9e/</guid>
-      <description>&lt;p&gt;J&amp;rsquo;ai réalisé mon stage de première année de BTS SIO au sein de l&amp;rsquo;espace Vall&amp;rsquo;Âges, un centre social et culturel situé à Joinville. J&amp;rsquo;étais avec le conseiller numérique. Mon stage s&amp;rsquo;est déroulé du 3 juin 2024 au 5 juillet 2024. Au sein de ce stage, j&amp;rsquo;ai réalisé plusieurs projets.&lt;/p&gt;&#xA;&lt;h2 id=&#34;projet-n1-création-dun-exercice-pour-débutant-en-informatique-pour-lutilisation-dexcel&#34;&gt;Projet n°1: Création d&amp;rsquo;un exercice pour débutant en informatique pour l&amp;rsquo;utilisation d&amp;rsquo;Excel&lt;/h2&gt;&#xA;&lt;p&gt;Pour un groupe de débutant en informatique souhaitant apprendre Excel afin de l&amp;rsquo;utiliser pour faire leurs comptes, j&amp;rsquo;ai du réaliser un exercice simulant une fiche d&amp;rsquo;une personne fictive ayant plusieurs revenus et dépenses. A l&amp;rsquo;aide de cette feuille, les usagers devaient réaliser un tableau sous Excel afin d&amp;rsquo;y ajouter les dépenses et revenus de chaque mois afin de savoir combien d&amp;rsquo;argent il reste à cette personne mensuellement et annuellement.&#xA;J&amp;rsquo;ai également dû réaliser une &amp;ldquo;procédure&amp;rdquo; pour les usagers afin qu&amp;rsquo;il la suive afin de réaliser ce tableau.&#xA;Le but de cet exercice était d&amp;rsquo;accompagner les usagers quant à l&amp;rsquo;utilisation d&amp;rsquo;Excel.&lt;/p&gt;</description>
+      <description>J&amp;rsquo;ai réalisé mon stage de première année de BTS SIO au sein de l&amp;rsquo;espace Vall&amp;rsquo;Âges, un centre social et culturel situé à Joinville. J&amp;rsquo;étais avec le conseiller numérique. Mon stage s&amp;rsquo;est déroulé du 3 juin 2024 au 5 juillet 2024. Au sein de ce stage, j&amp;rsquo;ai réalisé plusieurs projets.&#xA;Projet n°1: Création d&amp;rsquo;un exercice pour débutant en informatique pour l&amp;rsquo;utilisation d&amp;rsquo;Excel Pour un groupe de débutant en informatique souhaitant apprendre Excel afin de l&amp;rsquo;utiliser pour faire leurs comptes, j&amp;rsquo;ai du réaliser un exercice simulant une fiche d&amp;rsquo;une personne fictive ayant plusieurs revenus et dépenses.</description>
     </item>
     <item>
       <title>AP 01 SIO1 : Création d&#39;un formulaire et traitement avec du PHP</title>
       <link>http://localhost:1313/ap/ap01/</link>
       <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap01/</guid>
-      <description>&lt;p&gt;La mission était de crée un formulaire et de le traiter à l&amp;rsquo;aide du PHP.&#xA;AP: Création d&amp;rsquo;un formulaire et traitement avec du PHP&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-objectifs-de-lactivité&#34;&gt;I) Objectifs de l&amp;rsquo;activité&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Réaliser un formualire en HTML et CSS en respectant une charte graphique&lt;/li&gt;&#xA;&lt;li&gt;Respecter les normes et standards du W3C en utilisant les outils de validation du code puis en corrigeant les erreurs.&lt;/li&gt;&#xA;&lt;li&gt;Découverte du langage PHP et de son éxécution&lt;/li&gt;&#xA;&lt;li&gt;Traiter un formulaire HTML en PHP&lt;/li&gt;&#xA;&lt;li&gt;Débogage d&amp;rsquo;erreurs en PHP&lt;/li&gt;&#xA;&lt;li&gt;Structures conditionnelles en PHP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii-résultat&#34;&gt;II) Résultat&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Résultat du formulaire HTML&#xA;&lt;img src=&#34;http://localhost:1313/images/AP/formulaire.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;Résultat du traitement avec PHP&#xA;&lt;img src=&#34;http://localhost:1313/images/AP/resultat_mod.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <description>La mission était de crée un formulaire et de le traiter à l&amp;rsquo;aide du PHP. AP: Création d&amp;rsquo;un formulaire et traitement avec du PHP&#xA;I) Objectifs de l&amp;rsquo;activité Réaliser un formualire en HTML et CSS en respectant une charte graphique Respecter les normes et standards du W3C en utilisant les outils de validation du code puis en corrigeant les erreurs. Découverte du langage PHP et de son éxécution Traiter un formulaire HTML en PHP Débogage d&amp;rsquo;erreurs en PHP Structures conditionnelles en PHP II) Résultat Résultat du formulaire HTML Résultat du traitement avec PHP </description>
     </item>
     <item>
       <title>Comment me contacter?</title>
       <link>http://localhost:1313/contact/contact/</link>
       <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
       <guid>http://localhost:1313/contact/contact/</guid>
-      <description>&lt;p&gt;Vous pouvez me contacter:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Au 06 65 05 43 22&lt;/li&gt;&#xA;&lt;li&gt;A l&amp;rsquo;adresse &lt;a href=&#34;mailto:Valentin5207@outlook.com&#34;&gt;Valentin5207@outlook.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <description>Vous pouvez me contacter:&#xA;Au 06 65 05 43 22 A l&amp;rsquo;adresse Valentin5207@outlook.com </description>
     </item>
     <item>
       <title>AP 03 SIO1 : Découvrir et utiliser Javascript </title>
       <link>http://localhost:1313/ap/ap03/</link>
       <pubDate>Tue, 03 Oct 2023 22:53:58 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap03/</guid>
-      <description>&lt;p&gt;La mission était de coder en JavaScript un jeu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i---présentation-du-contexte&#34;&gt;I - Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;Vous travaillez pour une entreprise qui souhaite se lancer dans les petits jeux ludiques en ligne. II. Mission 1 : Les besoins&lt;/p&gt;&#xA;&lt;p&gt;On vous demande de coder en JavaScript un jeu dont le principe est simple :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;il faut cliquer sur une image.&lt;/li&gt;&#xA;&lt;li&gt;à chaque clic le score augmente de 1.&lt;/li&gt;&#xA;&lt;li&gt;pour arriver au niveau 1, il faut 15 clics, puis pour chaque niveau suivant on multiplie par 2 le nombre de clics nécessaires au niveau précédent (niveau 1 : 15 clics, niveau 2 : 30 clics, niveau 3 : 60 clics, niveau 4 : 120 clics, …).&lt;/li&gt;&#xA;&lt;li&gt;a chaque fois que l’on arrive au niveau supérieur, le nombre de clics actuel devient le nombre de clics auquel on retire le nombre de clics utilisés pour passer au niveau supérieur.&lt;/li&gt;&#xA;&lt;li&gt;On veut que les joueurs puissent se connecter avec leur nom / mot de passe grâce à un formulaire de connexion.&lt;/li&gt;&#xA;&lt;li&gt;Lorsqu’un joueur se connecte, le jeu s’initialise avec le nombre de clics et le niveau qui correspondent à son compte dans la base de données.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii---résultat-à-obtenir&#34;&gt;II - Résultat à obtenir&lt;/h2&gt;&#xA;&lt;center&gt;&lt;img src=&#34;http://localhost:1313/images/AP/clics.png&#34;&gt;&lt;/center&gt;</description>
+      <description>La mission était de coder en JavaScript un jeu.&#xA;I - Présentation du contexte Vous travaillez pour une entreprise qui souhaite se lancer dans les petits jeux ludiques en ligne. II. Mission 1 : Les besoins&#xA;On vous demande de coder en JavaScript un jeu dont le principe est simple :&#xA;il faut cliquer sur une image. à chaque clic le score augmente de 1. pour arriver au niveau 1, il faut 15 clics, puis pour chaque niveau suivant on multiplie par 2 le nombre de clics nécessaires au niveau précédent (niveau 1 : 15 clics, niveau 2 : 30 clics, niveau 3 : 60 clics, niveau 4 : 120 clics, …).</description>
     </item>
     <item>
       <title>AP 04 SIO1 : Dessiner un schéma réseau et mettre en service un site Web </title>
       <link>http://localhost:1313/ap/ap04/</link>
       <pubDate>Wed, 18 Oct 2023 22:53:58 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap04/</guid>
-      <description>&lt;p&gt;La mission était dessiner un schéma réseau et mettre en service un site Web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-contexte&#34;&gt;I. Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.&lt;/p&gt;</description>
+      <description>La mission était dessiner un schéma réseau et mettre en service un site Web.&#xA;I. Présentation du contexte Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.</description>
     </item>
     <item>
       <title>AP 05 SIO1 : Création d&#39;un site Porfolio avec Hugo</title>
       <link>http://localhost:1313/ap/ap05/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap05/</guid>
-      <description>&lt;p&gt;La mission était de crée un portfolio avec le site Hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-projet&#34;&gt;I. Présentation du projet&lt;/h2&gt;&#xA;&lt;p&gt;Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement. Il fournit également de nombreux thèmes.&lt;/p&gt;</description>
+      <description>La mission était de crée un portfolio avec le site Hugo.&#xA;I. Présentation du projet Lors de l’épreuve E4 du BTS, vous devez présenter un portfolio qui contient les réalisations faites au cours de votre formation. Au cours du 1er semestre, vous avez vu comment le faire simplement avec Wix. Cette fois-ci vous allez devoir installer un environnement permettant de faire tourner le framework Hugo. Hugo permet de générer des sites statiques simplement.</description>
     </item>
     <item>
       <title>AP 06 SIO1 : Déploiement de machines par le réseau avec FOG Project</title>
       <link>http://localhost:1313/ap/ap06/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap06/</guid>
-      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii-mission-1--besoins&#34;&gt;II. Mission 1 : Besoins&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence  et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d&amp;rsquo;utiliser le logiciel FOG Project que vous installerez sur une machine virtuelle Lubuntu.&lt;/p&gt;</description>
+      <description>I. Contexte de travail L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&#xA;II. Mission 1 : Besoins L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence et souhaite en installer de nouvelles sous Windows 10 Entreprise.</description>
     </item>
     <item>
       <title>AP 07 SIO1 : WDS</title>
       <link>http://localhost:1313/ap/ap-07/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap-07/</guid>
-      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii-les-besoins&#34;&gt;II. Les besoins&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence  et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d&amp;rsquo;utiliser le service de déploiement Windows qui est intégré à Windows Server 2022.&lt;/p&gt;</description>
+      <description>I. Contexte de travail L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&#xA;II. Les besoins L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines.</description>
     </item>
     <item>
       <title>AP 01 SIO2: Supervision réseau avec Zabbix</title>
       <link>http://localhost:1313/ap/ap-08-/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap-08-/</guid>
-      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&lt;/p&gt;&#xA;&lt;h2 id=&#34;ii-les-besoins&#34;&gt;II. Les besoins&lt;/h2&gt;&#xA;&lt;p&gt;L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence  et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines. Il vous est demandé d&amp;rsquo;utiliser le service de déploiement Windows qui est intégré à Windows Server 2022.&lt;/p&gt;</description>
+      <description>I. Contexte de travail L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&#xA;II. Les besoins L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines.</description>
     </item>
     <item>
       <title>Bloc 3 Projet Stormshield</title>
       <link>http://localhost:1313/ap/bloc-3/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/bloc-3/</guid>
-      <description>&lt;h2 id=&#34;i-contexte-de-travail&#34;&gt;I. Contexte de travail&lt;/h2&gt;&#xA;&lt;p&gt;Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.&lt;/p&gt;&#xA;&lt;p&gt;Le concept novateur de CUB repose sur une démarche collaborative de type « BtoB », en effet CUB propose aux entreprises qui disposent d’espaces inoccupés de les louer à l’heure ou à la journée.&lt;/p&gt;</description>
+      <description>I. Contexte de travail Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.&#xA;Le concept novateur de CUB repose sur une démarche collaborative de type « BtoB », en effet CUB propose aux entreprises qui disposent d’espaces inoccupés de les louer à l’heure ou à la journée.</description>
     </item>
   </channel>
 </rss>

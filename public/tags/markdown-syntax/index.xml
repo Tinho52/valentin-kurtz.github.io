@@ -4,7 +4,7 @@
     <title>Markdown Syntax on Hugo Profile</title>
     <link>http://localhost:1313/tags/markdown-syntax/</link>
     <description>Recent content in Markdown Syntax on Hugo Profile</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 Sep 2023 23:29:21 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/markdown-syntax/index.xml" rel="self" type="application/rss+xml" />
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/ap/ap01/</link>
       <pubDate>Tue, 19 Sep 2023 23:29:21 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap01/</guid>
-      <description>&lt;p&gt;La mission était de crée un formulaire et de le traiter à l&amp;rsquo;aide du PHP.&#xA;AP: Création d&amp;rsquo;un formulaire et traitement avec du PHP&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-objectifs-de-lactivité&#34;&gt;I) Objectifs de l&amp;rsquo;activité&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Réaliser un formualire en HTML et CSS en respectant une charte graphique&lt;/li&gt;&#xA;&lt;li&gt;Respecter les normes et standards du W3C en utilisant les outils de validation du code puis en corrigeant les erreurs.&lt;/li&gt;&#xA;&lt;li&gt;Découverte du langage PHP et de son éxécution&lt;/li&gt;&#xA;&lt;li&gt;Traiter un formulaire HTML en PHP&lt;/li&gt;&#xA;&lt;li&gt;Débogage d&amp;rsquo;erreurs en PHP&lt;/li&gt;&#xA;&lt;li&gt;Structures conditionnelles en PHP&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii-résultat&#34;&gt;II) Résultat&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Résultat du formulaire HTML&#xA;&lt;img src=&#34;http://localhost:1313/images/AP/formulaire.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;li&gt;Résultat du traitement avec PHP&#xA;&lt;img src=&#34;http://localhost:1313/images/AP/resultat_mod.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;</description>
+      <description>La mission était de crée un formulaire et de le traiter à l&amp;rsquo;aide du PHP. AP: Création d&amp;rsquo;un formulaire et traitement avec du PHP&#xA;I) Objectifs de l&amp;rsquo;activité Réaliser un formualire en HTML et CSS en respectant une charte graphique Respecter les normes et standards du W3C en utilisant les outils de validation du code puis en corrigeant les erreurs. Découverte du langage PHP et de son éxécution Traiter un formulaire HTML en PHP Débogage d&amp;rsquo;erreurs en PHP Structures conditionnelles en PHP II) Résultat Résultat du formulaire HTML Résultat du traitement avec PHP </description>
     </item>
   </channel>
 </rss>

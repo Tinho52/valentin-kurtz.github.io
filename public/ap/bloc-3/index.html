@@ -28,25 +28,18 @@
 
 
 
-<meta property="og:url" content="http://localhost:1313/ap/bloc-3/">
-  <meta property="og:site_name" content="Hugo Profile">
-  <meta property="og:title" content="Bloc 3 Projet Stormshield">
-  <meta property="og:description" content="I. Contexte de travail Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.
-Le concept novateur de CUB repose sur une démarche collaborative de type « BtoB », en effet CUB propose aux entreprises qui disposent d’espaces inoccupés de les louer à l’heure ou à la journée.">
-  <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="article">
-    <meta property="article:section" content="ap">
-    <meta property="article:published_time" content="2024-01-23T19:53:33+05:30">
-    <meta property="article:modified_time" content="2024-01-23T19:53:33+05:30">
-    <meta property="article:tag" content="Rich Content">
-    <meta property="article:tag" content="Sample">
-    <meta property="article:tag" content="Example">
+<meta property="og:title" content="Bloc 3 Projet Stormshield" />
+<meta property="og:description" content="I. Contexte de travail Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.
+Le concept novateur de CUB repose sur une démarche collaborative de type « BtoB », en effet CUB propose aux entreprises qui disposent d’espaces inoccupés de les louer à l’heure ou à la journée." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://localhost:1313/ap/bloc-3/" /><meta property="article:section" content="ap" />
+<meta property="article:published_time" content="2024-01-23T19:53:33+05:30" />
+<meta property="article:modified_time" content="2024-01-23T19:53:33+05:30" /><meta property="og:site_name" content="Valentin Profile" />
 
 
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="Bloc 3 Projet Stormshield">
-  <meta name="twitter:description" content="I. Contexte de travail Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.
-Le concept novateur de CUB repose sur une démarche collaborative de type « BtoB », en effet CUB propose aux entreprises qui disposent d’espaces inoccupés de les louer à l’heure ou à la journée.">
+<meta name="twitter:card" content="summary"/><meta name="twitter:title" content="Bloc 3 Projet Stormshield"/>
+<meta name="twitter:description" content="I. Contexte de travail Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.
+Le concept novateur de CUB repose sur une démarche collaborative de type « BtoB », en effet CUB propose aux entreprises qui disposent d’espaces inoccupés de les louer à l’heure ou à la journée."/>
 
 
 <link rel="stylesheet" href="/bootstrap-5/css/bootstrap.min.css" media="all"><link rel="stylesheet" href="/css/header.css" media="all">
@@ -370,6 +363,17 @@ Bloc 3 Projet Stormshield | Hugo Profile
 <p>Le siège social est le cœur du système d’information interne de CUB, mais un service informatique de proximité (SIP) est présent sur chaque agence. Le SIP est responsable de l’assistance aux utilisateurs locaux et de la maintenance des ressources locales (infrastructure réseau et serveurs). Le SIP prend également en charge des projets qui concernent ponctuellement leur site.</p>
 <center><img src="/images/AP/b3schema.png"></center> 
 <h2 id="ii-les-besoins">II. Les besoins</h2>
+<ol>
+<li>Configurer les switchs de la zone LAN et DMZ.</li>
+<li>Installer le Stormshield et configurer les VLAN et les différentes adresses IP.</li>
+<li>Créer et configurer les différents Serveurs DNS de la zone LAN et de la DMZ. Installer le résolveur.</li>
+<li>Implémenter la politique de filtrage de l’entreprise dans le pare-feu Stormshield : créer les règles pour chaque zone ainsi que les règles de redirection de ports pour le serveur Web et le serveur DNS en DMZ.</li>
+<li>Mettre en place un proxy web HTTP et HTTPS sans déchiffrement pour filtrer l’accès Web des utilisateurs du VLAN Client.</li>
+<li>Configurer un NIDS pour détecter les tentatives d’intrusion.
+Mettre en place un portail captif authentifiant en lien avec un annuaire Active Directory et un serveur RADIUS.</li>
+<li>Mettre en place un accès VPN pour des clients nomades avec OpenVPN.</li>
+<li>Mettre en place un lien VPN site-à-site avec IPsec.</li>
+</ol>
 
           </article>
         </div>

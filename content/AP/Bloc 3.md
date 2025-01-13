@@ -42,4 +42,12 @@ Le siège social est le cœur du système d’information interne de CUB, mais u
 
 ## II. Les besoins 
 
-
+1) Configurer les switchs de la zone LAN et DMZ.
+2) Installer le Stormshield et configurer les VLAN et les différentes adresses IP.
+3) Créer et configurer les différents Serveurs DNS de la zone LAN et de la DMZ. Installer le résolveur.
+4) Implémenter la politique de filtrage de l’entreprise dans le pare-feu Stormshield : créer les règles pour chaque zone ainsi que les règles de redirection de ports pour le serveur Web et le serveur DNS en DMZ.
+5) Mettre en place un proxy web HTTP et HTTPS sans déchiffrement pour filtrer l’accès Web des utilisateurs du VLAN Client.
+6) Configurer un NIDS pour détecter les tentatives d’intrusion.
+    Mettre en place un portail captif authentifiant en lien avec un annuaire Active Directory et un serveur RADIUS.
+7) Mettre en place un accès VPN pour des clients nomades avec OpenVPN.
+8) Mettre en place un lien VPN site-à-site avec IPsec.

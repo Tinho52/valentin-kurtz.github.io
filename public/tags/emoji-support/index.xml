@@ -4,7 +4,7 @@
     <title>Emoji Support on Hugo Profile</title>
     <link>http://localhost:1313/tags/emoji-support/</link>
     <description>Recent content in Emoji Support on Hugo Profile</description>
-    <generator>Hugo</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 18 Oct 2023 22:53:58 +0530</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/emoji-support/index.xml" rel="self" type="application/rss+xml" />
@@ -13,14 +13,14 @@
       <link>http://localhost:1313/ap/ap03/</link>
       <pubDate>Tue, 03 Oct 2023 22:53:58 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap03/</guid>
-      <description>&lt;p&gt;La mission était de coder en JavaScript un jeu.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i---présentation-du-contexte&#34;&gt;I - Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;Vous travaillez pour une entreprise qui souhaite se lancer dans les petits jeux ludiques en ligne. II. Mission 1 : Les besoins&lt;/p&gt;&#xA;&lt;p&gt;On vous demande de coder en JavaScript un jeu dont le principe est simple :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;il faut cliquer sur une image.&lt;/li&gt;&#xA;&lt;li&gt;à chaque clic le score augmente de 1.&lt;/li&gt;&#xA;&lt;li&gt;pour arriver au niveau 1, il faut 15 clics, puis pour chaque niveau suivant on multiplie par 2 le nombre de clics nécessaires au niveau précédent (niveau 1 : 15 clics, niveau 2 : 30 clics, niveau 3 : 60 clics, niveau 4 : 120 clics, …).&lt;/li&gt;&#xA;&lt;li&gt;a chaque fois que l’on arrive au niveau supérieur, le nombre de clics actuel devient le nombre de clics auquel on retire le nombre de clics utilisés pour passer au niveau supérieur.&lt;/li&gt;&#xA;&lt;li&gt;On veut que les joueurs puissent se connecter avec leur nom / mot de passe grâce à un formulaire de connexion.&lt;/li&gt;&#xA;&lt;li&gt;Lorsqu’un joueur se connecte, le jeu s’initialise avec le nombre de clics et le niveau qui correspondent à son compte dans la base de données.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;ii---résultat-à-obtenir&#34;&gt;II - Résultat à obtenir&lt;/h2&gt;&#xA;&lt;center&gt;&lt;img src=&#34;http://localhost:1313/images/AP/clics.png&#34;&gt;&lt;/center&gt;</description>
+      <description>La mission était de coder en JavaScript un jeu.&#xA;I - Présentation du contexte Vous travaillez pour une entreprise qui souhaite se lancer dans les petits jeux ludiques en ligne. II. Mission 1 : Les besoins&#xA;On vous demande de coder en JavaScript un jeu dont le principe est simple :&#xA;il faut cliquer sur une image. à chaque clic le score augmente de 1. pour arriver au niveau 1, il faut 15 clics, puis pour chaque niveau suivant on multiplie par 2 le nombre de clics nécessaires au niveau précédent (niveau 1 : 15 clics, niveau 2 : 30 clics, niveau 3 : 60 clics, niveau 4 : 120 clics, …).</description>
     </item>
     <item>
       <title>AP 04 SIO1 : Dessiner un schéma réseau et mettre en service un site Web </title>
       <link>http://localhost:1313/ap/ap04/</link>
       <pubDate>Wed, 18 Oct 2023 22:53:58 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap04/</guid>
-      <description>&lt;p&gt;La mission était dessiner un schéma réseau et mettre en service un site Web.&lt;/p&gt;&#xA;&lt;h2 id=&#34;i-présentation-du-contexte&#34;&gt;I. Présentation du contexte&lt;/h2&gt;&#xA;&lt;p&gt;Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.&lt;/p&gt;</description>
+      <description>La mission était dessiner un schéma réseau et mettre en service un site Web.&#xA;I. Présentation du contexte Née en décembre 2010, la société CUB est une entreprise spécialisée dans l’incubation de startups partageant les mêmes valeurs de solidarité et de développement durable. Au travers de sa plate-forme web, CUB permet à des professionnels d’accéder à des espaces de travail dédiés : salles de réunion, de formation ou de séminaire.</description>
     </item>
   </channel>
 </rss>
