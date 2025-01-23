@@ -32,7 +32,7 @@ A la suite d’un évènement réalisé par l’organisation, je devais réalise
 
 Au sein du centre social et culture où j’ai réalisé mon stage, une activité sur l’estime de soi et la confiance en soi allait sé dérouler. Afin de promouvoir cette activité, je devais réaliser une affiche présentant cette activité afin de la publier sur les réseaux sociaux. Je devais répondre à certains critères comme les couleurs utilisés.
 
-## Projet n°5: Création d'une activité concernant les raccourcis clavier
+## Projet n°5: Création d'un atelier concernant les raccourcis clavier
 
 Pour un groupe de débutant en informatique souhaitant apprendre les différents raccourcis claviers, j’ai du réaliser une fiche concernant les différents raccourcis clavier. J’ai également conçu un exercice où les usagers devaient utiliser de ces raccourcis vu précédemment.
 

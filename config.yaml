@@ -201,7 +201,7 @@ params:
   # Education
   education:
     enable: true
-    # title: "Custom Name"
+    title: "Parcours scolaire"
     index: false
     items:
       - title: "Brevet de Technicien Supérieur Services Informatiques aux Organisations"
@@ -248,7 +248,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     title: "Projets"
     items:
       

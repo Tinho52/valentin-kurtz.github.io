@@ -55,14 +55,14 @@
       <link>http://localhost:1313/ap/ap-07/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap-07/</guid>
-      <description>I. Contexte de travail L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&#xA;II. Les besoins L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines.</description>
+      <description>I. Contexte de travail L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&#xA;II. Les besoins L’entreprise va renouveler toutes ses machines clientes dans votre agence et souhaites en installer de nouvelles sous Windows 10 pro. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines.</description>
     </item>
     <item>
       <title>AP 01 SIO2: Supervision réseau avec Zabbix</title>
       <link>http://localhost:1313/ap/ap-08-/</link>
       <pubDate>Tue, 23 Jan 2024 19:53:33 +0530</pubDate>
       <guid>http://localhost:1313/ap/ap-08-/</guid>
-      <description>I. Contexte de travail L&amp;rsquo;entreprise CUB possède de nombreux postes clients à mettre à jour et à dépanner lorsque cela est nécessaire. Actuellement, le technicien installe les postes un par un lorsque cela est nécessaire. Cependant, cela demande énormément de temps et n&amp;rsquo;est pas une solutiion pérenne.&#xA;II. Les besoins L&amp;rsquo;entreprise va renouveler toutes ses machines clientes dans votre agence et souhaite en installer de nouvelles sous Windows 10 Entreprise. Vous êtes chargés de redéployer une image standard de Windows 10 sur toutes les nouvelles machines.</description>
+      <description>I. Contexte de travail L’entreprise CUB possède de nombreuses machines virtuelles (les serveurs DNS dans les différentes zones, le serveur Web, le pare-feu) ainsi que des équipements réseaux (switchs CISCO). il est important pour la DSI d’avoir un tableau de bord permettant de voir en temps réel l’état des machines et des équipements réseaux&#xA;II. Les besoins Il vous est demandé de mettre en place une solution de supervision du réseau (Switchs Cisco) et des machines virtuelles.</description>
     </item>
     <item>
       <title>Bloc 3 Projet Stormshield</title>
