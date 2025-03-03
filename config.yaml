@@ -34,11 +34,17 @@ Menus:
       title: Stages
       url: /stages
       weight: 2
+    - identifier: Veille
+      name: Veille
+      title: Veillessss
+      url: /veille
+      weight: 3
+      
     - identifier: Contact
       name: Contact
       title: Contact
       url: /contact
-      weight: 3
+      weight: 4
     #Dropdown menu
     # - identifier: dropdown
     #   title: Example dropdown menu
@@ -175,7 +181,7 @@ params:
     
       - job: "Conseiller numérique"
         company: "Espace Vall Ages"
-        date: "6 Janvier 2025 - 7 Février 2025"
+        date: "6 Janvier 2025 - 14 Février 2025"
         content: Stage réalisé dans cette structure en tant que conseiller numérique.
         
       - job: "Conseiller numérique"

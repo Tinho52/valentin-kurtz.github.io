@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Veilles on Hugo Profile</title>
+    <link>http://localhost:1313/veille/</link>
+    <description>Recent content in Veilles on Hugo Profile</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 03 Mar 2025 23:29:21 +0530</lastBuildDate>
+    <atom:link href="http://localhost:1313/veille/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dossier de veille technologique</title>
+      <link>http://localhost:1313/veille/veille/</link>
+      <pubDate>Mon, 03 Mar 2025 23:29:21 +0530</pubDate>
+      <guid>http://localhost:1313/veille/veille/</guid>
+      <description>Dans le cadre de ma veille technologique, j&amp;rsquo;ai choisi de me concentrer sur l&amp;rsquo;impact et l&amp;rsquo;évolution des technologies dans le domaine de l&amp;rsquo;arbitrage du football. Cette thématique est particulièrement intéressante car elle illustre comment les innovations technologiques transforment des secteurs traditionnels, ici, le sport, en améliorant la précision, la transparence et l&amp;rsquo;équité des décisions arbitrales. Au fil des dernières années, des outils comme la VAR (assistance vidéo à l&amp;rsquo;arbitrage) ou encore le système de suivi des joueurs grâce à des capteurs sont devenus essentiels dans les compétitions professionnelles.</description>
+    </item>
+  </channel>
+</rss>
